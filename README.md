@@ -1,4 +1,4 @@
-# TripMind AI ✈
+# Nyra Travels ✈
 
 End-to-end AI travel agent — flights, hotels, restaurants, and activities in one conversation.
 
