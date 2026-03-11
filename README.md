@@ -4,6 +4,7 @@ End-to-end AI travel agent — flights, hotels, restaurants, and activities in o
 
 Built with Python + FastAPI + Claude API (Anthropic).
 
+Created by Sai Vikas Nethi and Shivani Nanda
 ---
 
 ## Project Structure
